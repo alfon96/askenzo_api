@@ -1,0 +1,13 @@
+# Ignore Python virtual environments
+
+*env/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.yml
+
+# Ignore pipenv or poetry lock files
+Pipfile.lock
+poetry.lock

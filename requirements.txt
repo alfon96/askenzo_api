@@ -1,0 +1,11 @@
+fastapi==0.95.2
+sqlalchemy==2.0.15
+uvicorn==0.22.0
+psycopg2-binary==2.9.6
+geoalchemy2==0.13.3
+shapely==2.0.1
+pyjwt==2.7.0
+bcrypt==4.0.1
+boto3==1.26.150
+python-multipart==0.0.6
+python-decouple==3.8
